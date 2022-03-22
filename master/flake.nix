@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-tinypool-master.flake = false;
+  inputs.src-tinypool-master.ref   = "refs/heads/master";
   inputs.src-tinypool-master.owner = "PhilippMDoerner";
-  inputs.src-tinypool-master.ref   = "master";
   inputs.src-tinypool-master.repo  = "TinyPool";
   inputs.src-tinypool-master.type  = "github";
   
