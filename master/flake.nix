@@ -11,6 +11,7 @@
   inputs.src-tinypool-master.ref   = "refs/heads/master";
   inputs.src-tinypool-master.owner = "PhilippMDoerner";
   inputs.src-tinypool-master.repo  = "TinyPool";
+  inputs.src-tinypool-master.dir   = "";
   inputs.src-tinypool-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

@@ -11,6 +11,7 @@
   inputs.src-tinypool-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-tinypool-0_2_1.owner = "PhilippMDoerner";
   inputs.src-tinypool-0_2_1.repo  = "TinyPool";
+  inputs.src-tinypool-0_2_1.dir   = "";
   inputs.src-tinypool-0_2_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
