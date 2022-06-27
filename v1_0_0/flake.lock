@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-tinypool-master": "src-tinypool-master"
+        "src-tinypool-v1_0_0": "src-tinypool-v1_0_0"
       }
     },
-    "src-tinypool-master": {
+    "src-tinypool-v1_0_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1656108504,
-        "narHash": "sha256-0iQwE8zM/azaMUuoJghbAD7J4Dg6bDrpLq0e1SPCCzw=",
+        "lastModified": 1655830830,
+        "narHash": "sha256-O1pQEscMzJybQ862AYJ4JTKhsiHnSzbYic5Tir681EU=",
         "owner": "PhilippMDoerner",
         "repo": "TinyPool",
-        "rev": "1172d65473a0c5eff4e42504bb6851845c6b5904",
+        "rev": "6e3e63d993f93f2d106b6019fcc9c82fc5321ddb",
         "type": "github"
       },
       "original": {
         "owner": "PhilippMDoerner",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v1.0.0",
         "repo": "TinyPool",
         "type": "github"
       }
