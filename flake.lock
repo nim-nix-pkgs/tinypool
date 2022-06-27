@@ -117,11 +117,11 @@
     "src-tinypool-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1648230122,
-        "narHash": "sha256-gR23h16dGUKZglj6KQGBSge/l51Xh9+PzE85VJBqKQ4=",
+        "lastModified": 1656108504,
+        "narHash": "sha256-0iQwE8zM/azaMUuoJghbAD7J4Dg6bDrpLq0e1SPCCzw=",
         "owner": "PhilippMDoerner",
         "repo": "TinyPool",
-        "rev": "eeae2474818d9d4b8f42bb734d852a524900e3f6",
+        "rev": "1172d65473a0c5eff4e42504bb6851845c6b5904",
         "type": "github"
       },
       "original": {
@@ -177,11 +177,11 @@
       },
       "locked": {
         "dir": "0_2_0",
-        "lastModified": 1656284063,
-        "narHash": "sha256-FTPLvkzuaWCHU1+mrNTlQs+lqxxywHGV1m5hriY+S6I=",
+        "lastModified": 1656298157,
+        "narHash": "sha256-gyvNyd52OOf+tbgvOvu5eL17uMqm5/D1yP0bNuZBAaw=",
         "owner": "nim-nix-pkgs",
         "repo": "tinypool",
-        "rev": "29b50b7c13b45ef9f453b78836249c56cc430f16",
+        "rev": "e8182b3011b559251debedcbdbe1b58bd547ab41",
         "type": "github"
       },
       "original": {
@@ -204,11 +204,11 @@
       },
       "locked": {
         "dir": "0_2_1",
-        "lastModified": 1656284063,
-        "narHash": "sha256-FTPLvkzuaWCHU1+mrNTlQs+lqxxywHGV1m5hriY+S6I=",
+        "lastModified": 1656298157,
+        "narHash": "sha256-gyvNyd52OOf+tbgvOvu5eL17uMqm5/D1yP0bNuZBAaw=",
         "owner": "nim-nix-pkgs",
         "repo": "tinypool",
-        "rev": "29b50b7c13b45ef9f453b78836249c56cc430f16",
+        "rev": "e8182b3011b559251debedcbdbe1b58bd547ab41",
         "type": "github"
       },
       "original": {
@@ -231,11 +231,11 @@
       },
       "locked": {
         "dir": "0_3_0",
-        "lastModified": 1656284063,
-        "narHash": "sha256-FTPLvkzuaWCHU1+mrNTlQs+lqxxywHGV1m5hriY+S6I=",
+        "lastModified": 1656298157,
+        "narHash": "sha256-gyvNyd52OOf+tbgvOvu5eL17uMqm5/D1yP0bNuZBAaw=",
         "owner": "nim-nix-pkgs",
         "repo": "tinypool",
-        "rev": "29b50b7c13b45ef9f453b78836249c56cc430f16",
+        "rev": "e8182b3011b559251debedcbdbe1b58bd547ab41",
         "type": "github"
       },
       "original": {
@@ -258,11 +258,11 @@
       },
       "locked": {
         "dir": "0_3_1",
-        "lastModified": 1656284063,
-        "narHash": "sha256-FTPLvkzuaWCHU1+mrNTlQs+lqxxywHGV1m5hriY+S6I=",
+        "lastModified": 1656298157,
+        "narHash": "sha256-gyvNyd52OOf+tbgvOvu5eL17uMqm5/D1yP0bNuZBAaw=",
         "owner": "nim-nix-pkgs",
         "repo": "tinypool",
-        "rev": "29b50b7c13b45ef9f453b78836249c56cc430f16",
+        "rev": "e8182b3011b559251debedcbdbe1b58bd547ab41",
         "type": "github"
       },
       "original": {
@@ -285,11 +285,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656284063,
-        "narHash": "sha256-FTPLvkzuaWCHU1+mrNTlQs+lqxxywHGV1m5hriY+S6I=",
+        "lastModified": 1656298157,
+        "narHash": "sha256-gyvNyd52OOf+tbgvOvu5eL17uMqm5/D1yP0bNuZBAaw=",
         "owner": "nim-nix-pkgs",
         "repo": "tinypool",
-        "rev": "29b50b7c13b45ef9f453b78836249c56cc430f16",
+        "rev": "e8182b3011b559251debedcbdbe1b58bd547ab41",
         "type": "github"
       },
       "original": {
@@ -312,11 +312,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1656284063,
-        "narHash": "sha256-FTPLvkzuaWCHU1+mrNTlQs+lqxxywHGV1m5hriY+S6I=",
+        "lastModified": 1656298157,
+        "narHash": "sha256-gyvNyd52OOf+tbgvOvu5eL17uMqm5/D1yP0bNuZBAaw=",
         "owner": "nim-nix-pkgs",
         "repo": "tinypool",
-        "rev": "29b50b7c13b45ef9f453b78836249c56cc430f16",
+        "rev": "e8182b3011b559251debedcbdbe1b58bd547ab41",
         "type": "github"
       },
       "original": {
@@ -339,11 +339,11 @@
       },
       "locked": {
         "dir": "v1_0_1",
-        "lastModified": 1656284063,
-        "narHash": "sha256-FTPLvkzuaWCHU1+mrNTlQs+lqxxywHGV1m5hriY+S6I=",
+        "lastModified": 1656298157,
+        "narHash": "sha256-gyvNyd52OOf+tbgvOvu5eL17uMqm5/D1yP0bNuZBAaw=",
         "owner": "nim-nix-pkgs",
         "repo": "tinypool",
-        "rev": "29b50b7c13b45ef9f453b78836249c56cc430f16",
+        "rev": "e8182b3011b559251debedcbdbe1b58bd547ab41",
         "type": "github"
       },
       "original": {
